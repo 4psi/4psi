@@ -1,5 +1,5 @@
-<p align="center"> 
+<p align="center">
   <kbd>
-<img src="https://discord.dog/1117912133770952935" width="400"></img>
+    <img src="https://discord.dog/1117912133770952935" width="400" alt="Discord">
   </kbd>
 </p>
