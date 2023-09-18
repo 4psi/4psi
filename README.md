@@ -1,9 +1,5 @@
 <p align="center">
   <kbd>
-    <img src="https://discord.dog/1117912133770952935" width="400" alt="Your Image Description">
+    <img src="[https://discord.dog/1117912133770952935](https://discord.c99.nl/widget/theme-2/1117912133770952935.png)https://discord.c99.nl/widget/theme-2/1117912133770952935.png" width="400">
   </kbd>
-</p>
-
-<p align="center">
-  <a href="https://discord.dog/1117912133770952935">Visit the Website</a>
 </p>
