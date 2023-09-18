@@ -1,7 +1,9 @@
 <p align="center">
   <kbd>
-    <a href="https://discord.dog/1117912133770952935">
-      <img src="https://discord.dog/1117912133770952935" width="400" alt="Click to visit the website">
-    </a>
+    <img src="https://discord.dog/1117912133770952935" width="400" alt="Your Image Description">
   </kbd>
+</p>
+
+<p align="center">
+  <a href="https://discord.dog/1117912133770952935">Visit the Website</a>
 </p>
