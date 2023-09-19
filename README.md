@@ -1,4 +1,4 @@
 Hey, I'm Thisco i barely even code hehe i code for fun tho 
 
-![Profile](https://discord.c99.nl/widget/theme-2/1117912133770952935.png)
-![Profileyea](https://discord.dog/1117912133770952935)
+![Main](https://discord.c99.nl/widget/theme-2/1117912133770952935.png)
+![Alt](https://discord.c99.nl/widget/theme-2/1152509568467861525.png)
